@@ -28,8 +28,8 @@
       "noler-app/src/screens/permissions_native.rs:605",
       "noler-app/marketing/store/play-listing.yaml",
       "noler-publishing/apps/asc-listing/app.json",
-      "familychatcloud/rust-alarm/LANGUAGES.md",
-      "familychatcloud/rust-alarm/scripts/generate-locales.mjs"
+      "noler-public/rust-alarm/LANGUAGES.md",
+      "noler-public/rust-alarm/scripts/generate-locales.mjs"
     ]
   },
   "implementation_notes": [
